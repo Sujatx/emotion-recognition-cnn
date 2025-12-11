@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Data
+data/
+*.csv
+
+# Models + artifacts
+models/
+*.pth
+*.pt
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
